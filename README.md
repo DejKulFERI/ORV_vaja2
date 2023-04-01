@@ -1,5 +1,5 @@
 # Osnove Računalniškega Vida - Vaja 2
-# Filtriranje slik, detektorji robov
+Filtriranje slik, detektorji robov
 
 Implementirane funkcije:
 def my_roberts(slika):
@@ -21,4 +21,4 @@ Razmislite in odgovorite na naslednja vprašanja:
 
 1. Kje se pojavijo razlike pri detekciji robov nad temno in svetlo sliko pri uporabi različnih detektorjev robov in zakaj?
 
-2. Zakaj je pred uporabo detektorja robov smiselno uporabiti filter za glajenje? Utemeljite s kon
+2. Zakaj je pred uporabo detektorja robov smiselno uporabiti filter za glajenje? Utemeljite s konkretnim primerom.
